@@ -1,5 +1,5 @@
 # AI on the Edge - Lesson 3
-# Class Code - Grades Program
+# Class Code - Grades Program from Class
 # Lori Pfahler
 # April 2026
 
